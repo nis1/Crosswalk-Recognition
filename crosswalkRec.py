@@ -226,7 +226,7 @@ def process(im):
 #---------MAIN PROGRAM--------#
 #=============================#
 #initialization
-cap = cv2.VideoCapture('test19.mp4') #load a video
+cap = cv2.VideoCapture('inputVideo.mp4') #load a video
 
 W = cap.get(3) #get width
 H = cap.get(4) #get height
