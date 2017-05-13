@@ -8,7 +8,7 @@
 #                                           #
 #===========================================#
 
-# Copyright by N. Dalal, 2017 (c)
+#Copyright by N. Dalal, 2017 (c)
 
 #Licensed under the MIT License:
 
