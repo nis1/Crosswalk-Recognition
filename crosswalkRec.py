@@ -261,7 +261,7 @@ while(cap.isOpened()):
     try:
         processedFrame,dx,dy = process(img)
 
-        if (i % 6 == 0):
+        if (i < 6):
             Dx.append(dx)
             Dy.append(dy)
             i=i+1
